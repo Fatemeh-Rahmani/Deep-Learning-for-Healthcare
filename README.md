@@ -22,9 +22,7 @@ This repository contains multiple healthcare-focused deep learning projects buil
 - Recall  
 - F1-score  
 - ROC-AUC  
-
-**Example:**  
-![Pneumonia Detection Example](img/pneumonia_example.png)
+ 
 
 ---
 
@@ -42,9 +40,7 @@ This repository contains multiple healthcare-focused deep learning projects buil
 - Recall  
 - F1-score  
 - ROC-AUC  
-
-**Example:**  
-![Heart Failure Prediction Example](img/bi_rnn_example.png)
+ 
 
 ---
 
@@ -67,15 +63,7 @@ This repository contains multiple healthcare-focused deep learning projects buil
 - Recall  
 - F1-score  
 - ROC-AUC  
-
-**Example:**  
-![RETAIN Architecture](img/retain_example.png)
+ 
 
 ---
-
-## Installation
-
-```bash
-git clone https://github.com/yourusername/healthcare-dl.git
-cd healthcare-dl
-pip install -r requirements.txt
+ 
